@@ -69,7 +69,7 @@ def main():
     st.sidebar.markdown("## Autor")
     st.sidebar.markdown("[Roberto Moraga-Diaz](https://www.linkedin.com/in/robertomoragad/)")
     st.sidebar.markdown("[GitHub](https://github.com/robertomoragad/)")
-    st.sidebar.markdown("[Artículo completo](pronto)")
+    st.sidebar.markdown("[Artículo completo](https://www.linkedin.com/posts/tata-consultancy-services-latam_whitepaper-portafoliodigital-v103pdf-activity-7323032704143323136-8QsJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFVpicBG_Fz3DOf6nB8fJBPCA5mmCWY9qo)")
 
     st.title("Prototipo para Priorizar un Portafolio de Iniciativas (Clásico vs Disruptivo)")
 
